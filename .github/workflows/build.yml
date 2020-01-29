@@ -20,7 +20,7 @@ jobs:
         run: |
           go get github.com/tmedwards/tweego
           export PATH=$PATH:$(go env GOPATH)/bin
-          tweego scattered-brain.twee -o dist/index.html
+          tweego scattered-brain.twee -o index.html
 
 
       - name: Deploy
