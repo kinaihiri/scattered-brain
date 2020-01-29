@@ -11,18 +11,29 @@ jobs:
     steps:
       - uses: actions/checkout@v1
 
+      - name: Use Node.js 12.0
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.0
+
       - name: Use Go 1.13
         uses: actions/setup-go@v1
         with:
           go-version: 1.13.x
 
-      - name: build game
+      - name: build library
+        run: |
+          npm ci
+          npm run build --if-present
+        env:
+          CI: true
+
+      - name: build website
         run: |
           go get github.com/tmedwards/tweego
           export PATH=$PATH:$(go env GOPATH)/bin
-          tweego scattered-brain.twee -o dist/index.html
-
-
+          npm run build-site
+          
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v2
         env:
