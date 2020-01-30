@@ -11,9 +11,32 @@ Scattered-Brain
 	"zoom": 1
 }
 
+::StoryCSS [stylesheet]
+
+.h1 {
+	color: ;
+	font-weight: bold;
+
+}
+
+tw-story {
+
+}
+
+tw-sidebar {
+
+}
+
+tw-passage {
+
+}
+
+
+
 
 :: Start [Start] {"position":"1507,208","size":"100,100"}
-Hi
+=><=
+#Hi
 
 We're in the year 2020, which still sounds super future-y to me. 
 
@@ -21,8 +44,12 @@ I figure I could try having my diary be interactive, so I can store the informat
 
 So, a kind lame labor-intensive neural net.
 
+<==
 [[Snoop chronologically]]
-[[Snoop by topic]]
+[[Snoop by topic]] (Heavily under construction)
+
+
+
 
 
 :: Snoop chronologically {"position":"159,0","size":"100,100"}
@@ -30,6 +57,10 @@ I just started this, so I'll just have a few entries
 
 [[January 2020]]
 [[February 2020]]
+
+
+
+
 
 
 :: Snoop by topic {"position":"908,690","size":"100,100"}
@@ -80,9 +111,7 @@ Double-click this passage to edit it.
 [[January 20]]
 [[January 22]]
 [[January 23]]
-[[January 24]]
 [[January 25]]
-[[January 26]]
 [[January 27]]
 [[January 28]]
 [[January 29]]
@@ -91,76 +120,205 @@ Double-click this passage to edit it.
 
 
 :: January 20 {"position":"4,253","size":"100,100"}
+###Tuesday
+
 Dear Diary Class
 
 I bounce my leg so much, I have to keep self from shaking the table. 
 
 My chair creaks so much it sounds like farts. 
 
-Freewrite:
+''Freewrite''
 
-I think I have become, with age, a little better at feeling less like I do have an audience inmy head. The voice of my partner, my brother, all voices which moderate my writing and self-perception.
+I think I have become, with age, a little better at feeling less like I do have an audience in my head. The voice of my partner, my brother, friends, all voices which moderate my writing and self-perception.
 
-I've done this, I think, at the cost of coherence. I have to be in a certain mood to not make sense and write down my stray thoughts. 
+I've managed to selectively ignore those voices, I think, at the cost of coherence. I have to be in a certain mood to not make sense and write down my stray thoughts. 
 
-Writing on a computer feels...like it's not capturing my thoughts enough/ I can type so fast that it almost feels pess/
+Writing on a computer feels...like it's not capturing my thoughts enough? I can type so fast that it almost feels pointless.
 
-I have to getmy thoughts down in time before they poof away. 
+I have to get my thoughts down in time before they poof away. 
 
-I'm also a little scared. I have to, I feel, keep myself from getting in too deep inmy ownhead.What if I do and I start believing in things that aren't real/ There's a draw there. What if my own constructs are so alluring that I lose my mind? What if I go dow path where I become religious?
+I'm also a little scared. I have to, I feel, keep myself from getting in too deep in my own head. What if I do and I start believing in things that aren't real? There's a draw there. What if my own constructs are so alluring that I lose my mind? What if I go down the path where I become religious?
 
 What if I don't remember how to listen to others?
 
 What if relative objectivity slips away further? 
 
-But what if I am able to quiet the imagined voices of the people closes to me so I don't feel so judged all the time/
+But what if I am able to quiet the imagined voices of the people closes to me so I don't feel so judged all the time?
 
 What if by letting myself be more myself, as odd and messy and all-over-the-place that is I can feel calmer? 
 
 What if I'm less weird than I want to be and I'm a disappointment to myself?
 
+<footer>
+[[Home ->Start]] | [[Snoop by topic]] | [[Next entry->January 22]]
+
+
+
+
+
 
 :: January 22 {"position":"124,253","size":"100,100"}
-Double-click this passage to edit it.
+###Wednesday
+
+Today, 
+
+* I tried to make a little sculpey monster that fell apart. 
+* Kept reading My Giant Nerd Boyfriend
+* Wanted to die when coworkers oohed and aahed over project planning software
+* Found oout my Wu Tang Clan name is Illusional Illusionist (in the same meeting where I wanted to die)
+	** (Brenda was Wacko Professional, which is very apt for her)
+* Watched Detective Pikachu, a lazily-written movie that was saved by the giant Torterras and adorable Bulbasaurs
+* I picked at my legs and it now hurts
+* The artist I commissioned a bit-titty horned spider lady from got back to me with a sketch
+* It was the kind of rainy where there's water floating everywhere you go. Not really pouring, just...droplets in your face as you walk.
+* Apparently Paradise Lost is queer as fuck-- all-male angels fucking each other and C.S. Lewis was having none of it because he's booring. The person I read it from on Twitter has a Patreon where we talks about queer scholarship.
+* I just want a fun niche like that.
+* I need to learn how to drive.
+
+<footer>
+[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 22]] | [[Next entry->January 23]]
+
+
+
+
+
+
 
 
 :: January 23 {"position":"244,253","size":"100,100"}
-Double-click this passage to edit it.
+###Thursday
+
+Played Anomaly, a role-playing tabletop game with friends. 
+* Shadow bureaucratic oorganization--the IRS
+* Reality is broken
+* Setting: the Dakotas, //Some// Dakota. 
+
+I'm a person who's a jumble of stuff. 
+What did I just mean by that.
+
+<footer>
+[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 21]] | [[Next entry->January 25]]
 
 
-:: January 24 {"position":"364,253","size":"100,100"}
-Double-click this passage to edit it.
+
+
+
 
 
 :: January 25 {"position":"484,253","size":"100,100"}
-Double-click this passage to edit it.
+###Saturday
+
+I come up with a million topics when I'm not in front of my notebook. 
+
+I like Boston Dynamics robots, but I know how they will be used. 
+
+It's like I can't just enjooy any piece of technology anymore withoout being afraid of how it's going to deliberately hurt hundreds of thousands, millions of peoople. 
+
+The other day, I was enjoying a chat service instantly subtitling a conversation. Of course, I know this will be data thrown into a big pile to be used for machine learning or whatever to advertise more shit to me. Or something even worse.
+
+Is this simply a result of knowing more, or is this something we can reverse? I woould like to not sigh in exasperation and disappointment so often. 
+
+I do like my little tablet/laptop though. 
+
+<footer>
+[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 23]] | [[Next entry->January 27]]
 
 
-:: January 26 {"position":"4,253","size":"100,100"}
-Double-click this passage to edit it.
 
 
-:: January 27 {"position":"604,253","size":"100,100"}
-Double-click this passage to edit it.
+
+
+
+
+
+
+:: January 27 {"position":"4,253","size":"100,100"}
+###Monday
+
+I slept a lot yesterday. Dreamed of a sea in the middle of a frozen tundra, with an ice spire in the middle. Sailed towards it.
+
+I was a little thrown off after that. I also dreamed I was askin gSean what conditions woould be favorable to have it happen in real life. The dream was pretty accurate as to how the actual conversation went.
+
+Yesterday I asked Sean what his favoorite videogame story was. He had, as usual, a lot of difficulty with the question. 
+
+What if I help him catalogue what he likes so it can be easier for him to recall this sort of stuff. Have him talk about feelings and preferences rather than concrete things. 
+
+"Okay, what story stayed with you even after you were done playing?" I had to narrow down what I meant by my question. 
+
+Apparently it was Metal Gear Solid, because of the discussion on nuclear bomb proliferation. For him, the sheer numbers were shocking at the age of 15 or soo--he had no idea beforehand, so it stayed with him.
+
+I asked the Uglies (Rom and Mikhail):
+* Rom said 999, named a couple of Phoenix Wright games. And Ghost Trick. DS very well-represented here.
+* Mikhail said Firewatch due to the writing and the way the relationship developed. A good choice.
+
+My answer? Sacrifice. 
+
+<footer>
+[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 25]] | [[Next entry->January 28]]
+
+
+
+
+
+
 
 
 :: January 28 {"position":"724,253","size":"100,100"}
-Double-click this passage to edit it.
+###Tuesday
+
+I think my brain is rebellious.
+
+My eyelashes and eyebrows drive me insane.
+
+My eyebrows want to be thick and full and hairy and I don't let them unless I'm feeling lazy.
+
+''Notes about Anais Nin's writing''
+* June is:
+	** An empty box. 
+	** The reason to create?
+	** Demonic indifference to human order
+	** Lives by senses and intuitions
+	** "She alone was without fetters"
+
+* Henry is:
+	** The worst (my opinion)
+	** Inspiring ("arouses tremendoous strength in me")
+	** Does not love all of June 
+
+Ugh Henry Miller: "In the love between man and woman there is resistance and conflict. Two women do not judge each other, brutalize each other, or find anything to ridicule... such love is death, I'll admit."
+
+Oh my goooooood shuuuut up Miller. 
+
+
+If I search for amoeba on Google, I get all kinds of stuff aboout brain-eating amoebas. 
+
+
+I have been doing relatively well for at least a few days. No overwhelming negative intrusive thooughts. I am still very sleepy but at least I have endeavored to //do// things. 
+
+
+Yesterday, I had the thought that I didn't want to bother keeping up with current music, like Billie Eilish. Then I gasped to myself--am I old? Is that a sign?
+
+<footer>
+[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 27]] | [[Next entry->January 29]]
 
 
 :: January 29 {"position":"845,259","size":"100,100"}
-Double-click this passage to edit it.
+###Wednesday
 
 
 :: January 30 {"position":"604,253","size":"100,100"}
-Double-click this passage to edit it.
+###Thursday
 
 
 :: January 31 {"position":"964,253","size":"100,100"}
-Double-click this passage to edit it.
+###Friday
+
+
+
 
 
 :: February 2020 {"position":"42,368","size":"100,100"}
-Double-click this passage to edit it.
+
 
 
