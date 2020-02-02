@@ -13,6 +13,8 @@ Scattered-Brain
 
 ::StoryCSS [stylesheet]
 
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
 .h1 {
 	color: ;
 	font-weight: bold;
@@ -36,17 +38,20 @@ tw-passage {
 
 :: Start [Start] {"position":"1507,208","size":"100,100"}
 =><=
-#Hi
+(font:"Roboto")[#Hi
 
 We're in the year 2020, which still sounds super future-y to me.
 
 I figure I could try having my diary be interactive, so I can store the information my garbage brain forgets (all my lived experiences, opinions, and feelings) in a way that allows someone else to explore it non-linearly.
 
-So, a kind lame labor-intensive neural net.
+So, a kind lame labor-intensive neural net.]
 
 
-[[Snoop chronologically]]
-[[Snoop by topic]] (Heavily under construction)
+
+
+:: Footer[footer]
+=><=
+[[Snoop chronologically]] | [[Snoop by topic]] (Heavily under construction)
 
 
 
@@ -113,7 +118,18 @@ Double-click this passage to edit it.
 [[January 31]]
 
 
+:: Sidebar [footer]
+(set: $location to "Austin Bat Cave")\
+(append: ?SideBar)[\
+Location: $location
+]
+
+
+
 :: January 20 {"position":"4,253","size":"100,100"}
+<header>
+[[Home ->Start]] | [[Snoop by topic]] | [[Next entry->January 22]]
+
 ###Tuesday
 
 Dear Diary Class
@@ -144,15 +160,20 @@ What if by letting myself be more myself, as odd and messy and all-over-the-plac
 
 What if I'm less weird than I want to be and I'm a disappointment to myself?
 
-<footer>
-[[Home ->Start]] | [[Snoop by topic]] | [[Next entry->January 22]]
 
 
 
+:: Sidebar [footer]
+(set: $location to "Home")\
+(append: ?SideBar)[\
+Location: $location
+]
 
 
 
 :: January 22 {"position":"124,253","size":"100,100"}
+<header>
+[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 22]] | [[Next entry->January 23]]
 ###Wednesday
 
 Today,
@@ -170,8 +191,7 @@ Today,
 * I just want a fun niche like that.
 * I need to learn how to drive.
 
-<footer>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 22]] | [[Next entry->January 23]]
+
 
 
 
@@ -181,6 +201,8 @@ Today,
 
 
 :: January 23 {"position":"244,253","size":"100,100"}
+<header>
+[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 21]] | [[Next entry->January 25]]
 ###Thursday
 
 Played Anomaly, a role-playing tabletop game with friends.
@@ -191,8 +213,7 @@ Played Anomaly, a role-playing tabletop game with friends.
 I'm a person who's a jumble of stuff.
 What did I just mean by that.
 
-<footer>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 21]] | [[Next entry->January 25]]
+
 
 
 
@@ -201,6 +222,8 @@ What did I just mean by that.
 
 
 :: January 25 {"position":"484,253","size":"100,100"}
+<header>
+[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 23]] | [[Next entry->January 27]]
 ###Saturday
 
 I come up with a million topics when I'm not in front of my notebook.
@@ -215,8 +238,7 @@ Is this simply a result of knowing more, or is this something we can reverse? I 
 
 I do like my little tablet/laptop though.
 
-<footer>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 23]] | [[Next entry->January 27]]
+
 
 
 
@@ -228,6 +250,8 @@ I do like my little tablet/laptop though.
 
 
 :: January 27 {"position":"4,253","size":"100,100"}
+<header>
+[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 25]] | [[Next entry->January 28]]
 ###Monday
 
 I slept a lot yesterday. Dreamed of a sea in the middle of a frozen tundra, with an ice spire in the middle. Sailed towards it.
@@ -250,8 +274,7 @@ I asked the Uglies (Rom and Mikhail):
 
 My answer? Sacrifice.
 
-<footer>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 25]] | [[Next entry->January 28]]
+
 
 
 
@@ -261,6 +284,8 @@ My answer? Sacrifice.
 
 
 :: January 28 {"position":"724,253","size":"100,100"}
+<header>
+[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 27]] | [[Next entry->January 29]]
 ###Tuesday
 
 I think my brain is rebellious. I set goals and tell myself to do things and then my brain decides to //not// do those things.
@@ -292,26 +317,39 @@ If I search for amoeba on Google, I get all kinds of stuff about brain-eating am
 
 <br>
 
-I have been doing relatively well for at least a few days. No overwhelming negative intrusive thoughts. I am still very sleepy but at least I have endeavored to //do// things. 
+I have been doing relatively well for at least a few days. No overwhelming negative intrusive thoughts. I am still very sleepy but at least I have endeavored to //do// things.
 
 <br>
 
 Yesterday, I had the thought that I didn't want to bother keeping up with current music, like Billie Eilish. Then I gasped to myself--am I old? Is that a sign?
 
-<footer>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 27]] | [[Next entry->January 29]]
+
 
 
 
 :: January 30 {"position":"604,253","size":"100,100"}
+<header>
+[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 28]] | [[Next entry->February 2]]
 ###Thursday
-
-
-:: January 31 {"position":"964,253","size":"100,100"}
-###Friday
 
 
 
 
 
 :: February 2020 {"position":"42,368","size":"100,100"}
+[[February 2]]
+[[February 3]]
+
+
+:: February 2
+<header>
+[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 30]] | [[Next entry->February 3]]
+###Sunday
+
+
+
+
+:: February 3
+<header>
+[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 2]] | [[Next entry->February 4]]
+###Monday
