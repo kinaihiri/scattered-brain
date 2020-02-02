@@ -34,6 +34,33 @@ tw-passage {
 }
 
 
+:: Header[header]
+|modalhooks>[]
+
+:: Modal code
+(replace: ?modalhooks)[{
+  (css:"
+    position: fixed;
+    display:block;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(0,0,0,0.4);
+  ")[
+    (css:"
+      display:block;
+      margin: 15% auto;
+      padding: 20px;
+      width: 80%;
+      border: 1px solid white;
+    ")|modal>[
+      (css:"float:right")+(link-repeat:"×")[(replace: ?modalhooks)[]]
+    ]
+  ]
+}]
 
 
 :: Start [Start] {"position":"1507,208","size":"100,100"}
@@ -79,12 +106,13 @@ Really, my brain is composed of a few topics:
 
 
 <footer>
-[[Home ->Start]] | [[Browse Chronologically->Peruse chronologically]]
+[[Home ->Start]] | [[Browse Chronologically->Snoop chronologically]]
 
 
 :: SEX! Now that I have your attention... {"position":"517,834","size":"100,100"}
 Sex.
-
+(if:(count: (history:  > 3)[You keep coming back to this, don't you?]
+(else:)[]
 
 :: People and living things I know {"position":"667,834","size":"100,100"}
 Double-click this passage to edit it.
@@ -134,9 +162,10 @@ Location: $location
 
 Dear Diary Class
 
+(link-repeat:"Stray thoughts")[(display:"Modal code")(append:?modal)[
 I bounce my leg so much, I have to keep self from shaking the table.
 
-My chair creaks so much it sounds like farts.
+My chair creaks so much it sounds like farts.]]
 
 ''Freewrite''
 
@@ -210,8 +239,9 @@ Played Anomaly, a role-playing tabletop game with friends.
 * Reality is broken
 * Setting: the Dakotas, //Some// Dakota.
 
+(link-repeat:"Stray thoughts")[(display:"Modal code")(append:?modal)[
 I'm a person who's a jumble of stuff.
-What did I just mean by that.
+What did I just mean by that.]]
 
 
 
@@ -278,7 +308,11 @@ My answer? Sacrifice.
 
 
 
-
+:: Sidebar [footer]
+(set: $location to "Coffee shop")\
+(append: ?SideBar)[\
+Location: $location
+]
 
 
 
