@@ -11,7 +11,9 @@
 
 <tw-story></tw-story>
 
-<!-- UUID://B01DF4E2-7EA0-4E1A-B8A2-E789775B3D4F// --><tw-storydata name="Scattered-Brain" startnode="1" creator="Tweego" creator-version="2.1.0" ifid="B01DF4E2-7EA0-4E1A-B8A2-E789775B3D4F" zoom="1" format="Harlowe" format-version="3.1.0" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">.h1 {
+<!-- UUID://B01DF4E2-7EA0-4E1A-B8A2-E789775B3D4F// --><tw-storydata name="Scattered-Brain" startnode="3" creator="Tweego" creator-version="2.1.0" ifid="B01DF4E2-7EA0-4E1A-B8A2-E789775B3D4F" zoom="1" format="Harlowe" format-version="3.1.0" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.h1 {
 	color: ;
 	font-weight: bold;
 
@@ -27,19 +29,38 @@ tw-sidebar {
 
 tw-passage {
 
-}</style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Start" tags="Start" position="1507,208" size="100,100">=&gt;&lt;=
-#Hi
+}</style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Header" tags="header" position="100,100" size="100,100">|modalhooks&gt;[]</tw-passagedata><tw-passagedata pid="2" name="Modal code" tags="" position="225,100" size="100,100">(replace: ?modalhooks)[{
+  (css:&quot;
+    position: fixed;
+    display:block;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(0,0,0,0.4);
+  &quot;)[
+    (css:&quot;
+      display:block;
+      margin: 15% auto;
+      padding: 20px;
+      width: 80%;
+      border: 1px solid white;
+    &quot;)|modal&gt;[
+      (css:&quot;float:right&quot;)+(link-repeat:&quot;×&quot;)[(replace: ?modalhooks)[]]
+    ]
+  ]
+}]</tw-passagedata><tw-passagedata pid="3" name="Start" tags="Start" position="1507,208" size="100,100">=&gt;&lt;=
+(font:&quot;Roboto&quot;)[#Hi
 
-We&#39;re in the year 2020, which still sounds super future-y to me. 
+We&#39;re in the year 2020, which still sounds super future-y to me.
 
-I figure I could try having my diary be interactive, so I can store the information my garbage brain forgets (all my lived experiences, opinions, and feelings) in a way that allows someone else to explore it non-linearly. 
+I figure I could try having my diary be interactive, so I can store the information my garbage brain forgets (all my lived experiences, opinions, and feelings) in a way that allows someone else to explore it non-linearly.
 
-So, a kind lame labor-intensive neural net.
-
-
-[[Snoop chronologically]]
-[[Snoop by topic]] (Heavily under construction)</tw-passagedata><tw-passagedata pid="2" name="Snoop chronologically" tags="" position="159,0" size="100,100">[[January 2020]]
-[[February 2020]]</tw-passagedata><tw-passagedata pid="3" name="Snoop by topic" tags="" position="908,690" size="100,100">Really, my brain is composed of a few topics:
+So, a kind lame labor-intensive neural net.]</tw-passagedata><tw-passagedata pid="4" name="Footer" tags="footer" position="475,100" size="100,100">=&gt;&lt;=
+[[Snoop chronologically]] | [[Snoop by topic]] (Heavily under construction)</tw-passagedata><tw-passagedata pid="5" name="Snoop chronologically" tags="" position="159,0" size="100,100">[[January 2020]]
+[[February 2020]]</tw-passagedata><tw-passagedata pid="6" name="Snoop by topic" tags="" position="908,690" size="100,100">Really, my brain is composed of a few topics:
 
 [[SEX! Now that I have your attention...]]
 [[People and living things I know]]
@@ -50,52 +71,60 @@ So, a kind lame labor-intensive neural net.
 
 
 &lt;footer&gt;
-[[Home -&gt;Start]] | [[Browse Chronologically-&gt;Peruse chronologically]]</tw-passagedata><tw-passagedata pid="4" name="SEX! Now that I have your attention..." tags="" position="517,834" size="100,100">Sex.</tw-passagedata><tw-passagedata pid="5" name="People and living things I know" tags="" position="667,834" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="6" name="Anxieties" tags="" position="817,834" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="7" name="Dreams" tags="" position="967,834" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="8" name="Late Realizations" tags="" position="1117,834" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="9" name="I have to write this down so I don&#39;t forget" tags="" position="1417,834" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="10" name="January 2020" tags="" position="56,102" size="100,100">[[January 20]]
+[[Home -&gt;Start]] | [[Browse Chronologically-&gt;Snoop chronologically]]</tw-passagedata><tw-passagedata pid="7" name="SEX! Now that I have your attention..." tags="" position="517,834" size="100,100">Sex.
+(if:(count: (history:  &gt; 3)[You keep coming back to this, don&#39;t you?]
+(else:)[]</tw-passagedata><tw-passagedata pid="8" name="People and living things I know" tags="" position="667,834" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="9" name="Anxieties" tags="" position="817,834" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="10" name="Dreams" tags="" position="967,834" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="11" name="Late Realizations" tags="" position="1117,834" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="12" name="I have to write this down so I don&#39;t forget" tags="" position="1417,834" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="13" name="January 2020" tags="" position="56,102" size="100,100">[[January 20]]
 [[January 22]]
 [[January 23]]
 [[January 25]]
 [[January 27]]
 [[January 28]]
 [[January 30]]
-[[January 31]]</tw-passagedata><tw-passagedata pid="11" name="January 20" tags="" position="4,253" size="100,100">###Tuesday
+[[January 31]]</tw-passagedata><tw-passagedata pid="14" name="Sidebar" tags="footer" position="475,225" size="100,100">(set: $location to &quot;Coffee shop&quot;)\
+(append: ?SideBar)[\
+Location: $location
+]</tw-passagedata><tw-passagedata pid="15" name="January 20" tags="" position="4,253" size="100,100">&lt;header&gt;
+[[Home -&gt;Start]] | [[Snoop by topic]] | [[Next entry-&gt;January 22]]
+
+###Tuesday
 
 Dear Diary Class
 
-I bounce my leg so much, I have to keep self from shaking the table. 
+(link-repeat:&quot;Stray thoughts&quot;)[(display:&quot;Modal code&quot;)(append:?modal)[
+I bounce my leg so much, I have to keep self from shaking the table.
 
-My chair creaks so much it sounds like farts. 
+My chair creaks so much it sounds like farts.]]
 
 &#39;&#39;Freewrite&#39;&#39;
 
 I think I have become, with age, a little better at feeling less like I do have an audience in my head. The voice of my partner, my brother, friends, all voices which moderate my writing and self-perception.
 
-I&#39;ve managed to selectively ignore those voices, I think, at the cost of coherence. I have to be in a certain mood to not make sense and write down my stray thoughts. 
+I&#39;ve managed to selectively ignore those voices, I think, at the cost of coherence. I have to be in a certain mood to not make sense and write down my stray thoughts.
 
 Writing on a computer feels...like it&#39;s not capturing my thoughts enough? I can type so fast that it almost feels pointless.
 
-I have to get my thoughts down in time before they poof away. 
+I have to get my thoughts down in time before they poof away.
 
 I&#39;m also a little scared. I have to, I feel, keep myself from getting in too deep in my own head. What if I do and I start believing in things that aren&#39;t real? There&#39;s a draw there. What if my own constructs are so alluring that I lose my mind? What if I go down the path where I become religious?
 
 What if I don&#39;t remember how to listen to others?
 
-What if relative objectivity slips away further? 
+What if relative objectivity slips away further?
 
 But what if I am able to quiet the imagined voices of the people closes to me so I don&#39;t feel so judged all the time?
 
-What if by letting myself be more myself, as odd and messy and all-over-the-place that is I can feel calmer? 
+What if by letting myself be more myself, as odd and messy and all-over-the-place that is I can feel calmer?
 
-What if I&#39;m less weird than I want to be and I&#39;m a disappointment to myself?
+What if I&#39;m less weird than I want to be and I&#39;m a disappointment to myself?</tw-passagedata><tw-passagedata pid="16" name="January 22" tags="" position="124,253" size="100,100">&lt;header&gt;
+[[Home -&gt;Start]] | [[Snoop by topic]] | [[Previous entry-&gt;January 22]] | [[Next entry-&gt;January 23]]
+###Wednesday
 
-&lt;footer&gt;
-[[Home -&gt;Start]] | [[Snoop by topic]] | [[Next entry-&gt;January 22]]</tw-passagedata><tw-passagedata pid="12" name="January 22" tags="" position="124,253" size="100,100">###Wednesday
+Today,
 
-Today, 
-
-* I tried to make a little sculpey monster that fell apart. 
+* I tried to make a little sculpey monster that fell apart.
 * Kept reading My Giant Nerd Boyfriend
 * Wanted to die when coworkers oohed and aahed over project planning software
-* Found oout my Wu Tang Clan name is Illusional Illusionist (in the same meeting where I wanted to die)
+* Found out my Wu Tang Clan name is Illusional Illusionist (in the same meeting where I wanted to die)
 	** (Brenda was Wacko Professional, which is very apt for her)
 * Watched Detective Pikachu, a lazily-written movie that was saved by the giant Torterras and adorable Bulbasaurs
 * I picked at my legs and it now hurts
@@ -103,48 +132,46 @@ Today,
 * It was the kind of rainy where there&#39;s water floating everywhere you go. Not really pouring, just...droplets in your face as you walk.
 * Apparently Paradise Lost is queer as fuck-- all-male angels fucking each other and C.S. Lewis was having none of it because he&#39;s booring. The person I read it from on Twitter has a Patreon where we talks about queer scholarship.
 * I just want a fun niche like that.
-* I need to learn how to drive.
+* I need to learn how to drive.</tw-passagedata><tw-passagedata pid="17" name="January 23" tags="" position="244,253" size="100,100">&lt;header&gt;
+[[Home -&gt;Start]] | [[Snoop by topic]] | [[Previous entry-&gt;January 21]] | [[Next entry-&gt;January 25]]
+###Thursday
 
-&lt;footer&gt;
-[[Home -&gt;Start]] | [[Snoop by topic]] | [[Previous entry-&gt;January 22]] | [[Next entry-&gt;January 23]]</tw-passagedata><tw-passagedata pid="13" name="January 23" tags="" position="244,253" size="100,100">###Thursday
-
-Played Anomaly, a role-playing tabletop game with friends. 
-* Shadow bureaucratic oorganization--the IRS
+Played Anomaly, a role-playing tabletop game with friends.
+* Shadow bureaucratic organization--the IRS
 * Reality is broken
-* Setting: the Dakotas, //Some// Dakota. 
+* Setting: the Dakotas, //Some// Dakota.
 
-I&#39;m a person who&#39;s a jumble of stuff. 
-What did I just mean by that.
+(link-repeat:&quot;Stray thoughts&quot;)[(display:&quot;Modal code&quot;)(append:?modal)[
+I&#39;m a person who&#39;s a jumble of stuff.
+What did I just mean by that.]]</tw-passagedata><tw-passagedata pid="18" name="January 25" tags="" position="484,253" size="100,100">&lt;header&gt;
+[[Home -&gt;Start]] | [[Snoop by topic]] | [[Previous entry-&gt;January 23]] | [[Next entry-&gt;January 27]]
+###Saturday
 
-&lt;footer&gt;
-[[Home -&gt;Start]] | [[Snoop by topic]] | [[Previous entry-&gt;January 21]] | [[Next entry-&gt;January 25]]</tw-passagedata><tw-passagedata pid="14" name="January 25" tags="" position="484,253" size="100,100">###Saturday
+I come up with a million topics when I&#39;m not in front of my notebook.
 
-I come up with a million topics when I&#39;m not in front of my notebook. 
+I like Boston Dynamics robots, but I know how they will be used.
 
-I like Boston Dynamics robots, but I know how they will be used. 
-
-It&#39;s like I can&#39;t just enjooy any piece of technology anymore withoout being afraid of how it&#39;s going to deliberately hurt hundreds of thousands, millions of peoople. 
+It&#39;s like I can&#39;t just enjoy any piece of technology anymore without being afraid of how it&#39;s going to deliberately hurt hundreds of thousands, millions of peoople.
 
 The other day, I was enjoying a chat service instantly subtitling a conversation. Of course, I know this will be data thrown into a big pile to be used for machine learning or whatever to advertise more shit to me. Or something even worse.
 
-Is this simply a result of knowing more, or is this something we can reverse? I woould like to not sigh in exasperation and disappointment so often. 
+Is this simply a result of knowing more, or is this something we can reverse? I would like to not sigh in exasperation and disappointment so often.
 
-I do like my little tablet/laptop though. 
-
-&lt;footer&gt;
-[[Home -&gt;Start]] | [[Snoop by topic]] | [[Previous entry-&gt;January 23]] | [[Next entry-&gt;January 27]]</tw-passagedata><tw-passagedata pid="15" name="January 27" tags="" position="4,253" size="100,100">###Monday
+I do like my little tablet/laptop though.</tw-passagedata><tw-passagedata pid="19" name="January 27" tags="" position="4,253" size="100,100">&lt;header&gt;
+[[Home -&gt;Start]] | [[Snoop by topic]] | [[Previous entry-&gt;January 25]] | [[Next entry-&gt;January 28]]
+###Monday
 
 I slept a lot yesterday. Dreamed of a sea in the middle of a frozen tundra, with an ice spire in the middle. Sailed towards it.
 
-I was a little thrown off after that. I also dreamed I was askin gSean what conditions woould be favorable to have it happen in real life. The dream was pretty accurate as to how the actual conversation went.
+I was a little thrown off after that. I also dreamed I was asking Sean what conditions would be favorable to have it happen in real life. The dream was pretty accurate as to how the actual conversation went.
 
 &lt;br&gt;
 
-Yesterday I asked Sean what his favoorite videogame story was. He had, as usual, a lot of difficulty with the question. 
+Yesterday I asked Sean what his favorite videogame story was. He had, as usual, a lot of difficulty with the question.
 
-What if I help him catalogue what he likes so it can be easier for him to recall this sort of stuff. Have him talk about feelings and preferences rather than concrete things. 
+What if I help him catalogue what he likes so it can be easier for him to recall this sort of stuff. Have him talk about feelings and preferences rather than concrete things.
 
-&quot;Okay, what story stayed with you even after you were done playing?&quot; I had to narrow down what I meant by my question. 
+&quot;Okay, what story stayed with you even after you were done playing?&quot; I had to narrow down what I meant by my question.
 
 Apparently it was Metal Gear Solid, because of the discussion on nuclear bomb proliferation. For him, the sheer numbers were shocking at the age of 15 or soo--he had no idea beforehand, so it stayed with him.
 
@@ -152,10 +179,9 @@ I asked the Uglies (Rom and Mikhail):
 * Rom said 999, named a couple of Phoenix Wright games. And Ghost Trick. DS very well-represented here.
 * Mikhail said Firewatch due to the writing and the way the relationship developed. A good choice.
 
-My answer? Sacrifice. 
-
-&lt;footer&gt;
-[[Home -&gt;Start]] | [[Snoop by topic]] | [[Previous entry-&gt;January 25]] | [[Next entry-&gt;January 28]]</tw-passagedata><tw-passagedata pid="16" name="January 28" tags="" position="724,253" size="100,100">###Tuesday
+My answer? Sacrifice.</tw-passagedata><tw-passagedata pid="20" name="January 28" tags="" position="724,253" size="100,100">&lt;header&gt;
+[[Home -&gt;Start]] | [[Snoop by topic]] | [[Previous entry-&gt;January 27]] | [[Next entry-&gt;January 29]]
+###Tuesday
 
 I think my brain is rebellious. I set goals and tell myself to do things and then my brain decides to //not// do those things.
 
@@ -165,7 +191,7 @@ My eyebrows want to be thick and full and hairy and I don&#39;t let them unless 
 
 &#39;&#39;Notes about Anais Nin&#39;s writing&#39;&#39;
 * June is:
-	** An empty box. 
+	** An empty box.
 	** The reason to create?
 	** Demonic indifference to human order
 	** Lives by senses and intuitions
@@ -173,27 +199,31 @@ My eyebrows want to be thick and full and hairy and I don&#39;t let them unless 
 
 * Henry is:
 	** The worst (my opinion)
-	** Inspiring (&quot;arouses tremendoous strength in me&quot;)
-	** Does not love all of June 
+	** Inspiring (&quot;arouses tremendous strength in me&quot;)
+	** Does not love all of June
 
 Ugh Henry Miller: &quot;In the love between man and woman there is resistance and conflict. Two women do not judge each other, brutalize each other, or find anything to ridicule... such love is death, I&#39;ll admit.&quot;
 
-Oh my goooooood shuuuut up Miller. 
+Oh my goooooood shuuuut up Miller.
 
 &lt;br&gt;
 
-If I search for amoeba on Google, I get all kinds of stuff aboout brain-eating amoebas. 
+If I search for amoeba on Google, I get all kinds of stuff about brain-eating amoebas.
 
 &lt;br&gt;
 
-I have been doing relatively well for at least a few days. No overwhelming negative intrusive thooughts. I am still very sleepy but at least I have endeavored to //do// things. 
+I have been doing relatively well for at least a few days. No overwhelming negative intrusive thoughts. I am still very sleepy but at least I have endeavored to //do// things.
 
 &lt;br&gt;
 
-Yesterday, I had the thought that I didn&#39;t want to bother keeping up with current music, like Billie Eilish. Then I gasped to myself--am I old? Is that a sign?
-
-&lt;footer&gt;
-[[Home -&gt;Start]] | [[Snoop by topic]] | [[Previous entry-&gt;January 27]] | [[Next entry-&gt;January 29]]</tw-passagedata><tw-passagedata pid="17" name="January 30" tags="" position="604,253" size="100,100">###Thursday</tw-passagedata><tw-passagedata pid="18" name="January 31" tags="" position="964,253" size="100,100">###Friday</tw-passagedata><tw-passagedata pid="19" name="February 2020" tags="" position="42,368" size="100,100"></tw-passagedata></tw-storydata>
+Yesterday, I had the thought that I didn&#39;t want to bother keeping up with current music, like Billie Eilish. Then I gasped to myself--am I old? Is that a sign?</tw-passagedata><tw-passagedata pid="21" name="January 30" tags="" position="604,253" size="100,100">&lt;header&gt;
+[[Home -&gt;Start]] | [[Snoop by topic]] | [[Previous entry-&gt;January 28]] | [[Next entry-&gt;February 2]]
+###Thursday</tw-passagedata><tw-passagedata pid="22" name="February 2020" tags="" position="42,368" size="100,100">[[February 2]]
+[[February 3]]</tw-passagedata><tw-passagedata pid="23" name="February 2" tags="" position="350,350" size="100,100">&lt;header&gt;
+[[Home -&gt;Start]] | [[Snoop by topic]] | [[Previous entry-&gt;January 30]] | [[Next entry-&gt;February 3]]
+###Sunday</tw-passagedata><tw-passagedata pid="24" name="February 3" tags="" position="475,350" size="100,100">&lt;header&gt;
+[[Home -&gt;Start]] | [[Snoop by topic]] | [[Previous entry-&gt;February 2]] | [[Next entry-&gt;February 4]]
+###Monday</tw-passagedata></tw-storydata>
 
 <script title="Twine engine code" data-main="harlowe">"use strict";function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}var _slicedToArray=function(){function e(e,t){var n=[],r=!0,i=!1,o=void 0;try{for(var a,s=e[Symbol.iterator]();!(r=(a=s.next()).done)&&(n.push(a.value),!t||n.length!==t);r=!0);}catch(e){i=!0,o=e}finally{try{!r&&s.return&&s.return()}finally{if(i)throw o}}return n}return function(t,n){if(Array.isArray(t))return t;if(Symbol.iterator in Object(t))return e(t,n);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};!function(){/**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
