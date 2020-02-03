@@ -142,7 +142,6 @@ Double-click this passage to edit it.
 [[January 27]]
 [[January 28]]
 [[January 30]]
-[[January 31]]
 
 
 
@@ -311,9 +310,10 @@ My answer? Sacrifice.
 
 I think my brain is rebellious. I set goals and tell myself to do things and then my brain decides to //not// do those things.
 
+(link-repeat:"Stray thoughts")[(display:"Modal code")(append:?modal)[
 My eyelashes and eyebrows drive me insane.
 
-My eyebrows want to be thick and full and hairy and I don't let them unless I'm feeling lazy.
+My eyebrows want to be thick and full and hairy and I don't let them unless I'm feeling lazy.]
 
 ''Notes about Anais Nin's writing''
 * June is:
@@ -332,19 +332,35 @@ Ugh Henry Miller: "In the love between man and woman there is resistance and con
 
 Oh my goooooood shuuuut up Miller.
 
-<br>
 
-If I search for amoeba on Google, I get all kinds of stuff about brain-eating amoebas.
+(link-repeat:"Stray thoughts")[(display:"Modal code")(append:?modal)[
+If I search for amoeba on Google, I get all kinds of stuff about brain-eating amoebas.]
 
-<br>
+(link-repeat:"Stray thoughts 2")[(display:"Modal code")(append:?modal)[
+I have been doing relatively well for at least a few days. No overwhelming negative intrusive thoughts. I am still very sleepy but at least I have endeavored to //do// things.]
 
-I have been doing relatively well for at least a few days. No overwhelming negative intrusive thoughts. I am still very sleepy but at least I have endeavored to //do// things.
+(link-repeat:"Stray thoughts 3")[(display:"Modal code")(append:?modal)[
+Yesterday, I had the thought that I didn't want to bother keeping up with current music, like Billie Eilish. Then I gasped to myself--am I old? Is that a sign?]
 
-<br>
+''Notes about the Critical Polyamorist''
+######Intro, 10/23/2013
+* Lots of white ppl. That was my experience too.
+* "This isn't public journaling" why not?
+* Applying critical social theory to polyamory communities in middle america.
+* Cites Angela Wiley, "Science says she's gotta have it: reading for racial resonances in woman-centered poly literature"
 
-Yesterday, I had the thought that I didn't want to bother keeping up with current music, like Billie Eilish. Then I gasped to myself--am I old? Is that a sign?
+######Paganism and Polyamory
+* "Shared childlike wonder and fairytale romance" with either "an ancient magic in the earth itself" or Jesus/God (between paganism and Christianity)
+* Pagans happen where atheism is a possibility, societies where belief in god/gods is //not// presumed
+** Poaching in paganism of traditions
+** Pagans construct faith in the face of rational secularism ("pretend")
+** Sounds like Sean's mother, who believe trees can talk to her. I mean, I wish trees talked to me. But they don't. I don't think it's because I'm too busy or dead inside to listen... it'd be sad if that was the case, though.
 
+(link-repeat:"Stray thoughts 4")[(display:"Modal code")(append:?modal)[
+At PAX, there was this dude talking about Isis and other female mythological figures to a game developer in a fancy costume that... I don't know, had elements that reminded him of those goddesses? That poor woman.]
 
+(link-repeat:"Stray thoughts 5")[(display:"Modal code")(append:?modal)[
+"We are more than our artfully arranged atoms" --from a weirdly preachy letter admonishing someone about their comments on the original lamb in the Ghent Altarpiece. Preachy wrong person said a kind of dumb but kind of true thing? I don't know why it's here. It just struck me.]
 
 
 
@@ -353,7 +369,43 @@ Yesterday, I had the thought that I didn't want to bother keeping up with curren
 [[Home ->Start]] | [[Previous entry->January 28]] | [[Next entry->February 2]]
 ###Thursday
 
+I feel odd today. My mood has swung like a morningstar about to hit some unfortunate person in the face.
 
+That's a really bad sentence. Just atrocious.
+
+I started out well, then began working, and despaired. Rolling up survey results, providing "insights", worrying about inaccurate data... like being in a bog. Sinking.
+
+Get on my phone and look at the group chat. My friends are dumb I feel unhinged and silly. Rom talking about Lupin/Sirius pairings being nicknamed "Wolfstar" makes me think of the star Betelgeuse.
+
+"I wish for Betelgeuse to have exploded hundreds of years ago already."
+
+Had some ramen, walked around the apartment impatiently. Maybe I should go to the coffeeshop.
+
+(link-repeat:"Stray thoughts")[(display:"Modal code")(append:?modal)[
+My writing is so bad but at least I feel freer to go with it.]
+
+The ramen made me sick.
+
+My classmates submitted their entries. I am eager to read. Finish and submit my own. I wonder in what special ways they'll judge me.
+
+I'm aware I am self-deprecating and prone to complaint. And I was really extra by making a Twine game. I guess this can be my first entry for Decade Jam.
+
+Everyone's entries have a theme--they're about something. They're doing something specific. Focused on one or a couple of topics. I'm not and my writing is poorer for it. I tried to come up with a different "thing."
+
+I wondered what would express my me-ness better. I'm not a dancer. I'm not really an artist. I doodle every now and then.
+
+I love dogs--I love my dogs, but I barely write about them (they figure heavily in my Instagram, though).
+
+I love my boyfriend (and I have thought about scribbling a comic about our dumbest conversations and daily silliness), but I don't feel like dedicating all my creative output to my relationship.
+
+I have been a barista, an interview transcriptionist, an elementary school tutor, nude art model, call center lackey, and I'm currently an Excel table maker, but none of those things feel like //me//.
+
+(link-repeat:"Future topic brainstorm")[(display:"Modal code")(append:?modal)[
+Talk about:
+* Your nosiness. You used to be embarrassed by your mother's nosiness and now you are totally her, to your horror
+* Parents in general
+* The numbers you remember (like earth being 8 light-minutes from the sun, how much blood is in a human body...)
+* Giant neutrino detectors like temples. Holy monuments to humanity]
 
 
 
