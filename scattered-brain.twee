@@ -111,9 +111,7 @@ Really, my brain is composed of a few topics:
 
 :: SEX! Now that I have your attention... {"position":"517,834","size":"100,100"}
 Sex.
-(set: _sexhistory to (count: (history())
-(if: _sexhistory  > 3)[You keep coming back to this, don't you?]
-(else:)[]
+
 
 :: People and living things I know {"position":"667,834","size":"100,100"}
 Double-click this passage to edit it.
@@ -147,11 +145,7 @@ Double-click this passage to edit it.
 [[January 31]]
 
 
-:: Sidebar [footer]
-(set: $location to "Austin Bat Cave")\
-(append: ?SideBar)[\
-Location: $location
-]
+
 
 
 
@@ -193,11 +187,7 @@ What if I'm less weird than I want to be and I'm a disappointment to myself?
 
 
 
-:: Sidebar [footer]
-(set: $location to "Home")\
-(append: ?SideBar)[\
-Location: $location
-]
+
 
 
 
@@ -309,11 +299,7 @@ My answer? Sacrifice.
 
 
 
-:: Sidebar [footer]
-(set: $location to "Coffee shop")\
-(append: ?SideBar)[\
-Location: $location
-]
+
 
 
 
