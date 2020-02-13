@@ -53,12 +53,13 @@ So, a kind lame labor-intensive neural net.
 :: Footer[footer]
 <br>
 =><=
-[[Home ->Start]] | [[Snoop chronologically]] | (link-goto: "Snoop a random passage", (either: "January 20", "January 22", "January 23", "January 25", "January 28", "January 30", "February 2", "February 3", "February 4", "February 6", "February 7", "February 10", "February 11"))
+[[Home]] | [[Snoop chronologically]] | (link-goto: "Snoop a random passage", (either: "Sacrifice", "January 20", "January 22", "January 23", "January 25", "January 28", "January 30", "February 2", "February 3", "February 4", "February 6", "February 7", "February 10", "February 11"))
 
 
 ::List of Passages
 This is for my own benefit
 
+[[Sacrifice]]
 [[January 20]]
 [[January 22]]
 [[January 23]]
@@ -88,6 +89,22 @@ This is for my own benefit
 [[Stray Feb 4]]
 [[Stray Feb 6]]
 
+
+:: Home
+
+[[Snoop chronologically]]
+[[Snoop by topic]]
+[[Dreams]]
+[[Stray Thoughts]]
+(link-goto: "Snoop a random passage", (either: "Sacrifice", "January 20", "January 22", "January 23", "January 25", "January 28", "January 30", "February 2", "February 3", "February 4", "February 6", "February 7", "February 10", "February 11"))
+
+
+
+
+
+:: Snoop by topic
+
+[[Sacrifice]]
 
 
 
@@ -319,7 +336,7 @@ My answer? [[Sacrifice]].
 
 :: January 28 {"position":"724,253","size":"100,100"}
 <header>
-[[Home ->Start]] | [[Previous entry->January 27]] | [[Next entry->January 29]]
+[[Home ->Start]] | [[Previous entry->January 27]] | [[Next entry->January 30]]
 ###Tuesday, January 28
 
 (display: "Stray Jan 28 1")
@@ -581,7 +598,7 @@ Gregor Mendel was a big nerd, pass it on. The man just sat there and bred peas. 
 
 :: February 7
 <header>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 4]] | [[Next entry->February 7]]
+[[Home ->Start]] | [[Previous entry->February 4]] | [[Next entry->February 7]]
 ###Friday, February 7
 
 Friend getting drunk means they don't remember //my// stupid. Good.
@@ -591,7 +608,7 @@ Friend getting drunk means they don't remember //my// stupid. Good.
 
 :: February 10
 <header>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 7]] | [[Next entry->February 11]]
+[[Home ->Start]] | [[Previous entry->February 7]] | [[Next entry->February 11]]
 ###Monday, February 10
 
 I keep trying to take notes after I wake up to record my dreams.
@@ -602,7 +619,7 @@ Now I just have a series of scattered files on my Google Drive with nonsensical 
 
 :: February 11
 <header>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 7]] | [[Next entry->February 11]]
+[[Home ->Start]] | [[Previous entry->February 7]] | [[Next entry->February 11]]
 ###Tuesday, February 11
 
 Have you ever thought about grass? Not the slang for weed, but the stuff Americans love to have on their front lawn.
@@ -643,7 +660,7 @@ Mom really liked that game--it was very Tetris-like puzzle fare. I liked staring
 It was published in ###1993. Ahhhhhh so old.
 
 
-(display: "Stray Feb 11")
+[[Stray thought ->Stray Feb 11]]
 
 
 
