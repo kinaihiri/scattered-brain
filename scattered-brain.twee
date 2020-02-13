@@ -34,33 +34,7 @@ tw-passage {
 }
 
 
-:: Header[header]
-|modalhooks>[]
 
-:: Modal code
-(replace: ?modalhooks)[{
-  (css:"
-    position: fixed;
-    display:block;
-    z-index: 1;
-    left: 0;
-    top: 0;
-    width: 100%; /* Full width */
-    height: 100%; /* Full height */
-    overflow: auto; /* Enable scroll if needed */
-    background-color: rgba(0,0,0,0.4);
-  ")[
-    (css:"
-      display:block;
-      margin: 15% auto;
-      padding: 20px;
-      width: 80%;
-      border: 1px solid white;
-    ")|modal>[
-      (css:"float:right")+(link-repeat:"×")[(replace: ?modalhooks)[]]
-    ]
-  ]
-}]
 
 
 :: Start [Start] {"position":"1507,208","size":"100,100"}
@@ -100,6 +74,29 @@ This is for my own benefit
 [[February 10]]
 [[February 11]]
 [[Stray Jan 20]]
+[[Stray Jan 23]]
+[[Stray Jan 25]]
+[[Stray Jan 28 1]]
+[[Stray Jan 28 2]]
+[[Stray Jan 28 3]]
+[[Stray Jan 28 4]]
+[[Stray Jan 28 5]]
+[[Stray Jan 28 6]]
+[[Stray Jan 28 7]]
+[[Stray Jan 30 1]]
+[[Stray Jan 30 2]]
+[[Stray Feb 4]]
+[[Stray Feb 6]]
+
+
+
+
+
+
+
+
+
+
 
 :: Snoop chronologically {"position":"159,0","size":"100,100"}
 
@@ -137,8 +134,6 @@ Dear Diary Class
 
 (display: "Stray Jan 20")
 
-
-My chair creaks so much it sounds like farts.]]
 
 ''Freewrite''
 
@@ -211,9 +206,15 @@ Played Anomaly, a role-playing tabletop game with friends.
 * Reality is broken
 * Setting: the Dakotas, //Some// Dakota.
 
-(link-repeat:"Stray thoughts")[(display:"Modal code")(append:?modal)[
+(display: "Stray Jan 23")
+
+
+
+:: Stray Jan 23
 I'm a person who's a jumble of stuff.
-What did I just mean by that.]]
+What did I just mean by that.
+
+[[back to entry ->January 23]]
 
 
 
@@ -228,7 +229,7 @@ What did I just mean by that.]]
 [[Home ->Start]] | [[Previous entry->January 23]] | [[Next entry->January 27]]
 ###Saturday, January 25
 
-I come up with a million topics when I'm not in front of my notebook.
+(display: "Stray Jan 25")
 
 I like Boston Dynamics robots, but I know how they will be used.
 
@@ -242,8 +243,10 @@ I do like my little tablet/laptop though.
 
 
 
+:: Stray Jan 25
+I come up with a million topics when I'm not in front of my notebook.
 
-
+[[back to entry->January 25]]
 
 
 
@@ -274,7 +277,7 @@ I asked the Uglies (Rom and Mikhail):
 * Rom said 999, named a couple of Phoenix Wright games. And Ghost Trick. DS very well-represented here.
 * Mikhail said Firewatch due to the writing and the way the relationship developed. A good choice.
 
-My answer? Sacrifice.
+My answer? <a href="https://en.wikipedia.org/wiki/Sacrifice_%28video_game%29" target = _blank>Sacrifice</a> (external link).
 
 
 
@@ -290,12 +293,10 @@ My answer? Sacrifice.
 [[Home ->Start]] | [[Previous entry->January 27]] | [[Next entry->January 29]]
 ###Tuesday, January 28
 
-I think my brain is rebellious. I set goals and tell myself to do things and then my brain decides to //not// do those things.
+(display: "Stray Jan 28 1")
 
-(link-repeat:"Stray thoughts")[(display:"Modal code")(append:?modal)[
-My eyelashes and eyebrows drive me insane.
+(display: "Stray Jan 28 2")
 
-My eyebrows want to be thick and full and hairy and I don't let them unless I'm feeling lazy.]
 
 ''Notes about Anais Nin's writing''
 * June is:
@@ -315,17 +316,12 @@ Ugh Henry Miller: "In the love between man and woman there is resistance and con
 Oh my goooooood shuuuut up Miller.
 
 
-(link-repeat:"Stray thoughts")[(display:"Modal code")(append:?modal)[
-If I search for amoeba on Google, I get all kinds of stuff about brain-eating amoebas.
-]
+(dislay: "Stray Jan 28 3")
 
-(link-repeat:"Stray thoughts 2")[(display:"Modal code")(append:?modal)[
-I have been doing relatively well for at least a few days. No overwhelming negative intrusive thoughts. I am still very sleepy but at least I have endeavored to //do// things.
-]
+(display: "Stray Jan 28 4")
 
-(link-repeat:"Stray thoughts 3")[(display:"Modal code")(append:?modal)[
-Yesterday, I had the thought that I didn't want to bother keeping up with current music, like Billie Eilish. Then I gasped to myself--am I old? Is that a sign?
-]
+(display: "Stray Jan 28 5")
+
 
 ''Notes about the Critical Polyamorist''
 ######Intro, 10/23/2013
@@ -341,13 +337,65 @@ Yesterday, I had the thought that I didn't want to bother keeping up with curren
 ** Pagans construct faith in the face of rational secularism ("pretend")
 ** Sounds like Sean's mother, who believe trees can talk to her. I mean, I wish trees talked to me. But they don't. I don't think it's because I'm too busy or dead inside to listen... it'd be sad if that was the case, though.
 
-(link-repeat:"Stray thoughts 4")[(display:"Modal code")(append:?modal)[
-At PAX, there was this dude talking about Isis and other female mythological figures to a game developer in a fancy costume that... I don't know, had elements that reminded him of those goddesses? That poor woman.
-]
+(display: "Stray Jan 28 6")
 
-(link-repeat:"Stray thoughts 5")[(display:"Modal code")(append:?modal)[
+(display: "Stray Jan 28 7")
+
+
+
+
+
+:: Stray Jan 28 1
+
+I think my brain is rebellious. I set goals and tell myself to do things and then my brain decides to //not// do those things.
+
+[[back to entry -> January 28]]
+
+
+
+:: Stray Jan 28 2
+My eyelashes and eyebrows drive me insane.
+
+My eyebrows want to be thick and full and hairy and I don't let them unless I'm feeling lazy.
+
+[[back to entry -> January 28]]
+
+
+
+:: Stray Jan 28 3
+If I search for amoeba on Google, I get all kinds of stuff about brain-eating amoebas.
+
+[[back to entry -> January 28]]
+
+
+:: Stray Jan 28 4
+I have been doing relatively well for at least a few days. No overwhelming negative intrusive thoughts. I am still very sleepy but at least I have endeavored to //do// things.
+
+[[back to entry -> January 28]]
+
+
+:: Stray Jan 28 5
+Yesterday, I had the thought that I didn't want to bother keeping up with current music, like Billie Eilish. Then I gasped to myself--am I old? Is that a sign?
+
+[[back to entry -> January 28]]
+
+
+:: Stray Jan 28 6
+At PAX, there was this dude talking about Isis and other female mythological figures to a game developer in a fancy costume that... I don't know, had elements that reminded him of those goddesses? That poor woman.
+
+[[back to entry -> January 28]]
+
+
+:: Stray Jan 28 7
 "We are more than our artfully arranged atoms" --from a weirdly preachy letter admonishing someone about their comments on the original lamb in the Ghent Altarpiece. Preachy wrong person said a kind of dumb but kind of true thing? I don't know why it's here. It just struck me.
-]
+
+[[back to entry -> January 28]]
+
+
+
+
+
+
 
 
 
@@ -368,14 +416,13 @@ Get on my phone and look at the group chat. My friends are dumb I feel unhinged 
 
 Had some ramen, walked around the apartment impatiently. Maybe I should go to the coffeeshop.
 
-(link-repeat:"Stray thoughts")[(display:"Modal code")(append:?modal)[
-My writing is so bad but at least I feel freer to go with it.]
+(display: "Stray Jan 30 1")
 
 The ramen made me sick.
 
 My classmates submitted their entries. I am eager to read. Finish and submit my own. I wonder in what special ways they'll judge me.
 
-I'm aware I am self-deprecating and prone to complaint. And I was really extra by making a Twine game. I guess this can be my first entry for Decade Jam.
+I'm aware I am self-deprecating and prone to complaint. And I was really extra by making a Twine game. I guess this can be my first entry for <a href = "https://itch.io/jam/decadejam">Decade Jam<a/>.
 
 Everyone's entries have a theme--they're about something. They're doing something specific. Focused on one or a couple of topics. I'm not and my writing is poorer for it. I tried to come up with a different "thing."
 
@@ -387,12 +434,29 @@ I love my boyfriend (and I have thought about scribbling a comic about our dumbe
 
 I have been a barista, an interview transcriptionist, an elementary school tutor, nude art model, call center lackey, and I'm currently an Excel table maker, but none of those things feel like //me//.
 
-(link-repeat:"Future topic brainstorm")[(display:"Modal code")(append:?modal)[
+(display: "Stray Jan 30 2")
+
+
+
+
+:: Stray Jan 30 1
+My writing is so bad but at least I feel freer to go with it.
+
+[[back to entry-> January 30]]
+
+:: Stray Jan 30 2
 Talk about:
 * Your nosiness. You used to be embarrassed by your mother's nosiness and now you are totally her, to your horror
 * Parents in general
 * The numbers you remember (like earth being 8 light-minutes from the sun, how much blood is in a human body...)
-* Giant neutrino detectors like temples. Holy monuments to humanity]
+* Giant neutrino detectors like temples. Holy monuments to humanity
+
+[[back to entry-> January 30]]
+
+
+
+
+
 
 
 
@@ -421,13 +485,13 @@ Is this diary political?
 
 I hope so.
 
-I've been pretty self-centered in my entries, but there's glimpses of the political amidst all my talk abotu being a sleepy sad sack.
+I've been pretty self-centered in my entries, but there's glimpses of the political amidst all my talk about being a sleepy sad sack.
 
-I can undesrtnd the argument about even my probably poor mental health being out in the open, available widely online (with edits. Not everything I scribble makes it onto the Twine. You could have guessed that, though) is a political statement.
+I can understand the argument about even my probably poor mental health being out in the open, available widely online (with edits. Not everything I scribble makes it onto the Twine. You could have guessed that, though) is a political statement.
 
 Every public act is political. The personal is political. So everything is political. I get how we got to that. I'm not 100% sure I wholeheartedly buy into it, but it'sa pretty good guide to answering the question, "is this political?"
 
-Is my diary a protest? Is it resistance? I hope so. Ideally, "hey uh maybe people should get to not be totally misrable and oppressed because their lives are worthy of dignity of something" wouldn't be radical. Ideally, "hmmm well I think the planet should belivable and the needs of billions of humans (+plants and animals) should supersede the priorities of an astonishingly small number of wealthy assholes" wouldn't be a viopoint challenging the status quo, but here we are.
+Is my diary a protest? Is it resistance? I hope so. Ideally, "hey uh maybe people should get to not be totally miserable and oppressed because their lives are worthy of dignity of something" wouldn't be radical. Ideally, "hmmm well I think the planet should belivable and the needs of billions of humans (+plants and animals) should supersede the priorities of an astonishingly small number of wealthy assholes" wouldn't be a viopoint challenging the status quo, but here we are.
 
 I grew up watching Carl Sagan's Cosmo, a show which taught me, yes, a really pro-science point of view that made it easy for me to identify with neckbeards when I was younger, but at least it exhorted humanist values that still inform my thinking.
 
@@ -448,10 +512,15 @@ Am I a good listener?
 Wow, I'm so clueless. I can't suss out dynamics. I don't think I realize if I'm being made fun of. I don't realize how I "look" all the time.
 
 
-(link-repeat:"Stray thoughts")[(display:"Modal code")(append:?modal)[
+(display: "Stray Feb 4")
+
+
+:: Stray Feb 4
 Maybe I can make paintings that are, like, squares of color and I can write about my mood.
 
-I was bored of that idea as soon as I wrote that.]
+I was bored of that idea as soon as I wrote that.
+
+[[back to entry ->February 4]]
 
 
 
@@ -470,9 +539,13 @@ I danced around the bedroom, talking about how precipitation is odd.
 
 "Earth is //weird,//" I declared, before closing the courtains with a flourish and twirling over to bed.
 
-(link-repeat:"Stray thoughts")[(display:"Modal code")(append:?modal)[
+(display: "Stray Feb 6")
+
+:: Stray Feb 6
 Gregor Mendel was a big nerd, pass it on. The man just sat there and bred peas. Out of all plants on Earth, peas.
-]
+
+[[back to entry->February 6]]
+
 
 
 
@@ -503,9 +576,9 @@ Now I just have a series of scattered files on my Google Drive with nonsensical 
 [[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 7]] | [[Next entry->February 11]]
 ###Tuesday, February 11
 
-Have you ever thought abotu grass? Not the slang for weed, but the stuff Americans love to have on their front lawn.
+Have you ever thought about grass? Not the slang for weed, but the stuff Americans love to have on their front lawn.
 
-So I've been playing this game called Equilinox, a super cute ecosystem simulation game.
+So I've been playing this game called <a href = "https://equilinox.com/">Equilinox</a>, a super cute ecosystem simulation game.
 
 You start out with a simple life form--grass. It's the first thing you plop down on a barren chunk of land to begin making the environment more welcoming for species that are pickier.
 
@@ -541,11 +614,8 @@ Mom really liked that game--it was very Tetris-like puzzle fare. I liked staring
 It was published in ###1993. Ahhhhhh so old.
 
 
-(link-repeat:"Stray thoughts")[(display:"Modal code")(append:?modal)[
-Sean has trouble with language. Not a disability--he's just not well-read. He says "face recognization" rather than recognition. He adds letters to things, like "parsect" instead of parsec.
+(display: "Stray Feb 11")
 
-Sometimes he won't know certain words I tend to commonly use, like "prescient."
-]
 
 
 <br>
@@ -555,6 +625,13 @@ So I watched this GDC lecture from last year about cursed problems in gaming tha
 So, for example, the Quarterback Problem, an issue that happens in cooperative games when one person takes over and starts telling everyone what to do
 
 
+
+:: Stray Feb 11
+Sean has trouble with language. Not a disability--he's just not well-read. He says "face recognization" rather than recognition. He adds letters to things, like "parsect" instead of parsec.
+
+Sometimes he won't know certain words I tend to commonly use, like "prescient."
+
+[[back to entry-> February 11]]
 
 
 
