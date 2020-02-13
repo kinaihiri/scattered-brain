@@ -64,6 +64,7 @@ tw-passage {
 
 
 :: Start [Start] {"position":"1507,208","size":"100,100"}
+=><=
 #Hi
 
 We're in the year 2020, which still sounds super future-y to me.
@@ -78,7 +79,7 @@ So, a kind lame labor-intensive neural net.
 :: Footer[footer]
 <br>
 =><=
-[[Home ->Start]] | [[Snoop chronologically]] | [[Snoop by topic]] (Heavily under construction) | (link-goto: "Snoop a random passage", (either: "January 20", "January 22", "January 23", "January 25", "January 28", "January 30", "February 2", "February 3"))
+[[Home ->Start]] | [[Snoop chronologically]] | (link-goto: "Snoop a random passage", (either: "January 20", "January 22", "January 23", "January 25", "January 28", "January 30", "February 2", "February 3", "February 4", "February 6", "February 7", "February 10", "February 11"))
 
 
 ::List of Passages
@@ -93,6 +94,12 @@ This is for my own benefit
 [[January 30]]
 [[February 2]]
 [[February 3]]
+[[February 4]]
+[[February 6]]
+[[February 7]]
+[[February 10]]
+[[February 11]]
+[[Stray Jan 20]]
 
 :: Snoop chronologically {"position":"159,0","size":"100,100"}
 
@@ -104,43 +111,6 @@ This is for my own benefit
 
 
 
-:: Snoop by topic {"position":"908,690","size":"100,100"}
-Really, my brain is composed of a few topics:
-
-[[SEX! Now that I have your attention...]]
-[[People and living things I know]]
-[[Anxieties]]
-[[Dreams]]
-[[Late Realizations]]
-[[I have to write this down so I don't forget]]
-
-
-
-
-
-:: SEX! Now that I have your attention... {"position":"517,834","size":"100,100"}
-Sex.
-
-
-:: People and living things I know {"position":"667,834","size":"100,100"}
-Double-click this passage to edit it.
-
-
-:: Anxieties {"position":"817,834","size":"100,100"}
-Double-click this passage to edit it.
-
-
-:: Dreams {"position":"967,834","size":"100,100"}
-Double-click this passage to edit it.
-
-
-:: Late Realizations {"position":"1117,834","size":"100,100"}
-Double-click this passage to edit it.
-
-
-
-:: I have to write this down so I don't forget {"position":"1417,834","size":"100,100"}
-Double-click this passage to edit it.
 
 
 :: January 2020 {"position":"56,102","size":"100,100"}
@@ -165,8 +135,8 @@ Double-click this passage to edit it.
 
 Dear Diary Class
 
-(link-repeat:"Stray thoughts")[(display:"Modal code")(append:?modal)[
-I bounce my leg so much, I have to keep self from shaking the table.
+(display: "Stray Jan 20")
+
 
 My chair creaks so much it sounds like farts.]]
 
@@ -193,7 +163,10 @@ What if by letting myself be more myself, as odd and messy and all-over-the-plac
 What if I'm less weird than I want to be and I'm a disappointment to myself?
 
 
+:: Stray Jan 20
+Stray Thought: I bounce my leg so much, I have to keep self from shaking the table.
 
+[[back to entry ->January 20]]
 
 
 
@@ -213,9 +186,9 @@ Today,
 	** (Brenda was Wacko Professional, which is very apt for her)
 * Watched Detective Pikachu, a lazily-written movie that was saved by the giant Torterras and adorable Bulbasaurs
 * I picked at my legs and it now hurts
-* The artist I commissioned a bit-titty horned spider lady from got back to me with a sketch
+* The artist I commissioned a big-tiddy horned spider lady from got back to me with a sketch
 * It was the kind of rainy where there's water floating everywhere you go. Not really pouring, just...droplets in your face as you walk.
-* Apparently Paradise Lost is queer as fuck-- all-male angels fucking each other and C.S. Lewis was having none of it because he's booring. The person I read it from on Twitter has a Patreon where we talks about queer scholarship.
+* Apparently Paradise Lost is queer as fuck-- all-male angels fucking each other and C.S. Lewis was having none of it because he's booooring. The person I read it from on Twitter has a Patreon where we talks about queer scholarship.
 * I just want a fun niche like that.
 * I need to learn how to drive.
 
@@ -528,7 +501,7 @@ Now I just have a series of scattered files on my Google Drive with nonsensical 
 :: February 11
 <header>
 [[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 7]] | [[Next entry->February 11]]
-###Monday, February 11
+###Tuesday, February 11
 
 Have you ever thought abotu grass? Not the slang for weed, but the stuff Americans love to have on their front lawn.
 
@@ -580,3 +553,13 @@ Sometimes he won't know certain words I tend to commonly use, like "prescient."
 So I watched this GDC lecture from last year about cursed problems in gaming that I found fascinating. Cursed problems are simply conflicts in the premises of a game.
 
 So, for example, the Quarterback Problem, an issue that happens in cooperative games when one person takes over and starts telling everyone what to do
+
+
+
+
+
+
+:: February 12
+<header>
+[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 11]] | [[Next entry->February 13]]
+###Wednesday, February 12
