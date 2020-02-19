@@ -59,6 +59,8 @@ So, a kind lame labor-intensive neural net.
 ::List of Passages
 This is for my own benefit
 
+[[About Me]]
+[[Guide]]
 [[Sacrifice]]
 [[January 20]]
 [[January 22]]
@@ -74,6 +76,8 @@ This is for my own benefit
 [[February 7]]
 [[February 10]]
 [[February 11]]
+[[February 14]]
+[[February 17]]
 [[Stray Jan 20]]
 [[Stray Jan 23]]
 [[Stray Jan 25]]
@@ -98,13 +102,37 @@ This is for my own benefit
 [[Stray Thoughts]]
 (link-goto: "Snoop a random passage", (either: "Sacrifice", "January 20", "January 22", "January 23", "January 25", "January 28", "January 30", "February 2", "February 3", "February 4", "February 6", "February 7", "February 10", "February 11"))
 
+[[Guide to this diary->Guide]]
+[[About Me]]
+
 
 
 
 
 :: Snoop by topic
 
+[[Me-> About Me]]
 [[Sacrifice]]
+
+
+
+
+:: About Me
+
+I'm Ceci.
+
+<a href="http://cecimorales.net/">Doodle Repository Website</a>
+<a href="http://cecimorales.com/">Wannabe Fancy Professional Website</a>
+
+
+
+
+:: Guide
+
+Entries can have multiple topics because I go a few days without writing.
+
+Sometimes I go back and make comments on my old stuff. It'll be in a different font.
+
 
 
 
@@ -339,9 +367,9 @@ My answer? [[Sacrifice]].
 [[Home ->Start]] | [[Previous entry->January 27]] | [[Next entry->January 30]]
 ###Tuesday, January 28
 
-(display: "Stray Jan 28 1")
+[[Stray thought 1->Stray Jan 28 1]]
 
-(display: "Stray Jan 28 2")
+[[Stray thought 2->Stray Jan 28 2]]
 
 
 ''Notes about Anais Nin's writing''
@@ -362,11 +390,11 @@ Ugh Henry Miller: "In the love between man and woman there is resistance and con
 Oh my goooooood shuuuut up Miller.
 
 
-(dislay: "Stray Jan 28 3")
+[[Stray thought 3->Stray Jan 28 3]]
 
-(display: "Stray Jan 28 4")
+[[Stray thought 4->Stray Jan 28 4]]
 
-(display: "Stray Jan 28 5")
+[[Stray thought 5->Stray Jan 28 5]]
 
 
 ''Notes about the Critical Polyamorist''
@@ -383,9 +411,9 @@ Oh my goooooood shuuuut up Miller.
 ** Pagans construct faith in the face of rational secularism ("pretend")
 ** Sounds like Sean's mother, who believe trees can talk to her. I mean, I wish trees talked to me. But they don't. I don't think it's because I'm too busy or dead inside to listen... it'd be sad if that was the case, though.
 
-(display: "Stray Jan 28 6")
+[[Stray thought 6->Stray Jan 28 6]]
 
-(display: "Stray Jan 28 7")
+[[Stray thought 7->Stray Jan 28 7]]
 
 
 
@@ -462,7 +490,7 @@ Get on my phone and look at the group chat. My friends are dumb I feel unhinged 
 
 Had some ramen, walked around the apartment impatiently. Maybe I should go to the coffeeshop.
 
-(display: "Stray Jan 30 1")
+[[Stray thought 1->Stray Jan 30 1]]
 
 The ramen made me sick.
 
@@ -480,7 +508,7 @@ I love my boyfriend (and I have thought about scribbling a comic about our dumbe
 
 I have been a barista, an interview transcriptionist, an elementary school tutor, nude art model, call center lackey, and I'm currently an Excel table maker, but none of those things feel like //me//.
 
-(display: "Stray Jan 30 2")
+[[Stray thought 2->Stray Jan 30 2]]
 
 
 
@@ -558,7 +586,7 @@ Am I a good listener?
 Wow, I'm so clueless. I can't suss out dynamics. I don't think I realize if I'm being made fun of. I don't realize how I "look" all the time.
 
 
-(display: "Stray Feb 4")
+[[Stray thought-> Stray Feb 4]]
 
 
 :: Stray Feb 4
@@ -585,7 +613,7 @@ I danced around the bedroom, talking about how precipitation is odd.
 
 "Earth is //weird,//" I declared, before closing the courtains with a flourish and twirling over to bed.
 
-(display: "Stray Feb 6")
+[[Stray thought->Stray Feb 6]]
 
 :: Stray Feb 6
 Gregor Mendel was a big nerd, pass it on. The man just sat there and bred peas. Out of all plants on Earth, peas.
@@ -684,7 +712,7 @@ Sometimes he won't know certain words I tend to commonly use, like "prescient."
 
 :: February 14
 <header>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 11]] | [[Next entry->February 13]]
+[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 11]] | [[Next entry->February 17]]
 ###Friday, February 14
 
 Sleepy all day again.
@@ -765,3 +793,15 @@ I'm angry at people in power who maintain the status quo.
 I'm angry at white women who talk about feminism as a way to excuse their racism.
 
 I'm angry at every person who has said, "I have nothing to hide, so I have nothing to fear"
+
+
+
+
+
+:: February 17
+<header>
+[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 14]] | [[Next entry->February 18]]
+###Monday, February 17
+
+
+
