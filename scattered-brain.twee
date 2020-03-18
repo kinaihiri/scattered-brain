@@ -52,8 +52,7 @@ I figure I could try having my diary be interactive, so I can store the informat
 :: Footer[footer]
 <br>
 =><=
-[[Home]] | [[Snoop chronologically]] | (link-goto: "Snoop a random passage", (either: "Sacrifice", "January 20", "January 22", "January 23", "January 25", "January 28", "January 30", "February 2", "February 3", "February 4", "February 6", "February 7", "February 10", "February 11"))
-
+[[Home]] | [[Snoop chronologically]] | (link-goto: "Snoop a random passage", (either: "Sacrifice", "January 20", "January 22", "January 23", "January 25", "January 28", "January 30", "February 2", "February 3", "February 4", "February 6", "February 7", "February 10", "February 11", "February 14", "February 18", "February 19", "February 20", "February 21", "February 22", "February 23", "February 24", "February 25", "Dream January 23", "Dream January 24", "Dream January 25", "Dream January 28", "Dream January 29", "Dream January 30", "Dream February 5", "Dream February 6", "Dream February 8", "Dream February 9", "Dream February 14", "Stray Jan 20", "Stray Jan 23", "Stray Jan 25", "Stray Jan 28 1", "Stray Jan 28 2", "Stray Jan 28 3", "Stray Jan 28 4", "Stray Jan 28 5", "Stray Jan 28 6", "Stray Jan 28 7", "Stray Jan 30 1", "Stray Jan 30 2", Stray Feb 4", "Stray Feb 6"))
 
 ::List of Passages
 This is for my own benefit
@@ -102,7 +101,7 @@ This is for my own benefit
 [[Snoop by topic]]
 [[Dreams]]
 [[Stray Thoughts]]
-(link-goto: "Snoop a random passage", (either: "Sacrifice", "January 20", "January 22", "January 23", "January 25", "January 28", "January 30", "February 2", "February 3", "February 4", "February 6", "February 7", "February 10", "February 11"))
+(link-goto: "Snoop a random passage", (either: "Sacrifice", "January 20", "January 22", "January 23", "January 25", "January 28", "January 30", "February 2", "February 3", "February 4", "February 6", "February 7", "February 10", "February 11", "February 14", "February 18", "February 19", "February 20", "February 21", "February 22", "February 23", "February 24", "February 25", "Dream January 23", "Dream January 24", "Dream January 25", "Dream January 28", "Dream January 29", "Dream January 30", "Dream February 5", "Dream February 6", "Dream February 8", "Dream February 9", "Dream February 14", "Stray Jan 20", "Stray Jan 23", "Stray Jan 25", "Stray Jan 28 1", "Stray Jan 28 2", "Stray Jan 28 3", "Stray Jan 28 4", "Stray Jan 28 5", "Stray Jan 28 6", "Stray Jan 28 7", "Stray Jan 30 1", "Stray Jan 30 2", Stray Feb 4", "Stray Feb 6"))
 
 [[Guide to this diary->Guide]]
 [[About Me]]
@@ -228,6 +227,7 @@ I've had to/will edit these so you don't get shit like, "that was a weird dream.
 :: Dream January 23
 <header>
 [[Home]] | [[Next dream->Dream January 24]]
+###Dream January 23
 
 First, curtains. Large curtains I was in charge of. If I pulled the string a certain way, they would fold differently. I wanted to worry about that, but we had the dogs with us. Fisk. Someone else dropped off their dog, and Fisk wouldn't stop chasing other dogs to bite them. I kept yelling no, it did nothing. 
 
@@ -239,12 +239,16 @@ I wanted a break from the stress. I turned a corner into a botanical garden. The
 :: Dream January 24
 <header>
 [[Home]] | [[Previous dream->Dream January 23]] | [[Next dream->Dream January 25]]
+###Dream January 24
+
 I stole something from the shop. I knew I had to walk away carefully at first, then run. There were cameras absolutely everywhere.
 
 
 :: Dream January 25
 <header>
 [[Home]] | [[Previous dream->Dream January 24]] | [[Next dream->Dream January 27]]
+###Dream January 25
+
 There were many girls like her on the icy rocks. No, they were her. Some of them were boys she had just been comptering against. But it was mostly her. 
 
 If she touched a girl like her, she would turn into an adult, armored and crackling with power. She would have her revenge. 
@@ -253,6 +257,8 @@ If she touched a girl like her, she would turn into an adult, armored and crackl
 :: Dream January 28
 <header>
 [[Home]] | [[Previous dream->Dream January 25]] | [[Next dream->Dream January 29]]
+###Dream January 28
+
 A man in a crappy modified bulldozer, yellow and twisted, decides to get angry at me as I rode a bus. He's yelling at me. I close all the windows to stay safe.
 
 Eventually, he will get to me. I know I will get hurt--he will come with a group of friends, all angry and dangerous. We trick them all. 
@@ -261,6 +267,8 @@ Eventually, he will get to me. I know I will get hurt--he will come with a group
 :: Dream January 29
 <header>
 [[Home]] | [[Previous dream->Dream January 29]] | [[Next dream->Dream January 30]]
+###Dream January 29
+
 It's night. 
 
 The hulking beast wants to get it over with. He spews shrapnel at and around me--somehow, I wasn't hit, but SUVs driving by are. 
@@ -271,6 +279,9 @@ The owners complain. Police come to investigate. I quietly recede back home to a
 :: Dream January 30
 <header>
 [[Home]] | [[Previous dream->Dream January 29]] | [[Next dream->Dream February 5]]
+
+###Dream January 30
+
 I spend an entire day sleeping next to an old acquaintance. He's arrogant and has a crooked smile. It just feels wrong to lie there for hours. When I have enough, I jump out of bed and declare, "I should go do ANYTHING IN LIFE right now."
 
 
@@ -278,6 +289,8 @@ I spend an entire day sleeping next to an old acquaintance. He's arrogant and ha
 :: Dream February 5
 <header>
 [[Home]] | [[Previous dream->Dream January 30]] | [[Next dream->Dream February 6]]
+###Dream February 5
+
 Sean told me to practice riding a little motorcycle in my parents' backyard. I didn't really want to. I told him I'd forgotten how to shift and turn. He told me to just indulge him and practice.
 
 Then we heard it. There was an avalanche. We needed to evacuate. Sean told me to get in his truck. It was too full to hold my tiny motorcycle. We agreed I would catch up to him and my parents at a later time. I scrambled to grab my gear and the items important to me--two backpacks' worth of stuff. 
@@ -292,12 +305,16 @@ I was alone and needed to follow strict rules I didn't understand.
 :: Dream February 6
 <header>
 [[Home]] | [[Previous dream->Dream February 5]] | [[Next dream->Dream February 8]]
+###Dream February 6
+
 I walked away from a conversation with a friend from college who was dressed as a bird. It was an elegant and elaborate costume, but she was a gray bird. 
 
 
 :: Dream February 8
 <header>
 [[Home]] | [[Previous dream->Dream February 6]] | [[Next dream->Dream February 9]]
+###Dream February 8
+
 I sat down to make some art. A girl asked me if I came here often. I was awkward, mentioned I had just moved here. I wanted her to be my friend. After a while, I ripped off a piece of paper and wrote my phone number on it. That was difficult. I ripped piece after piece and never stopped.
 
 
@@ -305,12 +322,16 @@ I sat down to make some art. A girl asked me if I came here often. I was awkward
 :: Dream February 9
 <header>
 [[Home]] | [[Previous dream->Dream February 8]] | [[Next dream->Dream February 9]]
+###Dream February 9
+
 Sucio had scratchy areas from which ash poured out. I picked him up to tilt him and let out the ash. I did it quickly and tried to move on quickly to not have to think too hard about it. The ash carved out large grey holes on his legs.
 
 
 :: Dream February 14
 <header>
 [[Home]] | [[Previous dream->Dream February 9]] | [[Next dream->Dream February 9]]
+###Dream February 14
+
 The sky was covered in subtly colorful birds. I had not noticed them before. 
 
 
@@ -361,8 +382,15 @@ The sky was covered in subtly colorful birds. I had not noticed them before.
 [[February 21]]
 [[February 22]]
 [[February 23]]
+[[February 24]]
+[[February 25]]
+[[February 27]]
+[[February 29]]
 
 
+:: March 2020 
+[[March 1]]
+[[March 2]]
 
 
 
@@ -370,7 +398,7 @@ The sky was covered in subtly colorful birds. I had not noticed them before.
 
 :: January 20 {"position":"4,253","size":"100,100"}
 <header>
-[[Home ->Start]] | [[Next entry->January 22]]
+[[Home]] | [[Next entry->January 22]]
 
 ###Tuesday, January 20
 
@@ -413,7 +441,7 @@ Stray Thought: I bounce my leg so much, I have to keep self from shaking the tab
 
 :: January 22 {"position":"124,253","size":"100,100"}
 <header>
-[[Home ->Start]] | [[Previous entry->January 22]] | [[Next entry->January 23]]
+[[Home]] | [[Previous entry->January 22]] | [[Next entry->January 23]]
 ###Wednesday, January 22
 
 Today,
@@ -442,7 +470,7 @@ Today,
 
 :: January 23 {"position":"244,253","size":"100,100"}
 <header>
-[[Home ->Start]] | [[Previous entry->January 22]] | [[Next entry->January 25]]
+[[Home]] | [[Previous entry->January 22]] | [[Next entry->January 25]]
 ###Thursday, January 23
 
 Played Anomaly, a role-playing tabletop game with friends.
@@ -470,7 +498,7 @@ What did I just mean by that.
 
 :: January 25 {"position":"484,253","size":"100,100"}
 <header>
-[[Home ->Start]] | [[Previous entry->January 23]] | [[Next entry->January 27]]
+[[Home]] | [[Previous entry->January 23]] | [[Next entry->January 27]]
 ###Saturday, January 25
 
 [[Stray thought ->Stray Jan 25]]
@@ -500,7 +528,7 @@ I come up with a million topics when I'm not in front of my notebook.
 
 :: January 27 {"position":"4,253","size":"100,100"}
 <header>
-[[Home ->Start]] | [[Previous entry->January 25]] | [[Next entry->January 28]]
+[[Home]] | [[Previous entry->January 25]] | [[Next entry->January 28]]
 ###Monday, January 27
 
 I slept a lot yesterday. Dreamed of a sea in the middle of a frozen tundra, with an ice spire in the middle. Sailed towards it.
@@ -534,7 +562,7 @@ My answer? [[Sacrifice]].
 
 :: January 28 {"position":"724,253","size":"100,100"}
 <header>
-[[Home ->Start]] | [[Previous entry->January 27]] | [[Next entry->January 30]]
+[[Home]] | [[Previous entry->January 27]] | [[Next entry->January 30]]
 ###Tuesday, January 28
 
 [[Stray thought 1->Stray Jan 28 1]]
@@ -645,7 +673,7 @@ At PAX, there was this dude talking about Isis and other female mythological fig
 
 :: January 30 {"position":"604,253","size":"100,100"}
 <header>
-[[Home ->Start]] | [[Previous entry->January 28]] | [[Next entry->February 3]]
+[[Home]] | [[Previous entry->January 28]] | [[Next entry->February 3]]
 ###Thursday, January 30
 
 I feel odd today. My mood has swung like a morningstar about to hit some unfortunate person in the face.
@@ -709,7 +737,7 @@ Talk about:
 
 :: February 3
 <header>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->January 30]] | [[Next entry->February 4]]
+[[Home]] | [[Snoop by topic]] | [[Previous entry->January 30]] | [[Next entry->February 4]]
 ###Monday, February 3
 
 I slept a lot. I slept during the work day for 2 hours. I felt tired and listless. I had a dream that told me I was nervous and lost when trying new things. I'm holding on to a lot odd guilt from high school--I was so bad at human interaction. there's so much cringe and sexual confusion. It's still a mess, but a minor one. Tucked in a drawer in the garage.
@@ -733,7 +761,7 @@ I grew up watching Carl Sagan's Cosmo, a show which taught me, yes, a really pro
 
 :: February 4
 <header>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 3]] | [[Next entry->February 6]]
+[[Home]] | [[Snoop by topic]] | [[Previous entry->February 3]] | [[Next entry->February 6]]
 ###Tuesday, February 4
 
 I have weak self-talk. I don't have a constant monologue, but I know there's an internal voice.
@@ -759,14 +787,14 @@ I was bored of that idea as soon as I wrote that.
 
 :: February 6
 <header>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 4]] | [[Next entry->February 7]]
+[[Home]] | [[Snoop by topic]] | [[Previous entry->February 4]] | [[Next entry->February 7]]
 ###Thursday, February 6
 
 It snowed last night. It was pointed out to me when we were about to go to bed. Big, poofy fluffs coming down from the sky.
 
 The dogs didn't appreciate it. Sucio dutifully went to the backyard and summarily peed. Fisk, the big brute, marked the fence with his endless amounts of pee. Luna, the smaller pit, probably didn't even pee--she was too busy running back in as soon as possible.
 
-Sean is, as always, impervious to cold. Having lived in the northeast most of hsi life, he's used to snow.
+Sean is, as always, impervious to cold. Having lived in the northeast most of his life, he's used to snow.
 
 I danced around the bedroom, talking about how precipitation is odd.
 
@@ -785,7 +813,7 @@ Gregor Mendel was a big nerd, pass it on. The man just sat there and bred peas. 
 
 :: February 7
 <header>
-[[Home ->Start]] | [[Previous entry->February 4]] | [[Next entry->February 10]]
+[[Home]] | [[Previous entry->February 4]] | [[Next entry->February 10]]
 ###Friday, February 7
 
 Friend getting drunk means they don't remember //my// stupid. Good.
@@ -795,7 +823,7 @@ Friend getting drunk means they don't remember //my// stupid. Good.
 
 :: February 10
 <header>
-[[Home ->Start]] | [[Previous entry->February 7]] | [[Next entry->February 11]]
+[[Home]] | [[Previous entry->February 7]] | [[Next entry->February 11]]
 ###Monday, February 10
 
 I keep trying to take notes after I wake up to record my dreams.
@@ -806,7 +834,7 @@ Now I just have a series of scattered files on my Google Drive with nonsensical 
 
 :: February 11
 <header>
-[[Home ->Start]] | [[Previous entry->February 7]] | [[Next entry->February 14]]
+[[Home]] | [[Previous entry->February 7]] | [[Next entry->February 14]]
 ###Tuesday, February 11
 
 Have you ever thought about grass? Not the slang for weed, but the stuff Americans love to have on their front lawn.
@@ -871,7 +899,7 @@ Sometimes he won't know certain words I tend to commonly use, like "prescient."
 
 :: February 14
 <header>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 11]] | [[Next entry->February 17]]
+[[Home]] | [[Snoop by topic]] | [[Previous entry->February 11]] | [[Next entry->February 17]]
 ###Friday, February 14
 
 Sleepy all day again.
@@ -959,7 +987,7 @@ I'm angry at every person who has said, "I have nothing to hide, so I have nothi
 
 :: February 17
 <header>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 14]] | [[Next entry->February 18]]
+[[Home]] | [[Snoop by topic]] | [[Previous entry->February 14]] | [[Next entry->February 18]]
 ###Monday, February 17
 I'm not psycho. 
 
@@ -971,7 +999,7 @@ But I'm not. I hope not.
 
 :: February 18
 <header>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 17]] | [[Next entry->February 19]]
+[[Home]] | [[Snoop by topic]] | [[Previous entry->February 17]] | [[Next entry->February 19]]
 ###Tuesday, February 18
 ''Things I like''
 * The little puff of air when I split a pumpkin seed in half down the seam
@@ -1028,7 +1056,7 @@ I don't know, it's kind of liberating to think about it.
 
 :: February 19
 <header>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 18]] | [[Next entry->February 20]]
+[[Home]] | [[Snoop by topic]] | [[Previous entry->February 18]] | [[Next entry->February 20]]
 ###Wednesday, February 19
 
 I'm not sure I'll ever have a morning where I wake up by jumping out of bed with excitement to start the day. Was that ever something I did?
@@ -1058,7 +1086,7 @@ I am thoroughly talentless when it comes to describing music (actually, a lot). 
 
 :: February 20
 <header>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 19]] | [[Next entry->February 21]]
+[[Home]] | [[Snoop by topic]] | [[Previous entry->February 19]] | [[Next entry->February 21]]
 ###Thursday, February 20
 
 I have realized I quite like the sound of the central heating coming on. It's probably because I associate that sound with the time I spent ensconced under blanket, watching old movies (well, old now, like the Fifth Element). El Paso winters are colder than Austin winters. I would roll myself up like a burrito, feeling safe and cozy.
@@ -1067,7 +1095,7 @@ I have realized I quite like the sound of the central heating coming on. It's pr
 
 :: February 21
 <header>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 20]] | [[Next entry->February 22]]
+[[Home]] | [[Snoop by topic]] | [[Previous entry->February 20]] | [[Next entry->February 22]]
 ###Friday, February 21
 
 My writing here is different thatn in other notebooks, becuase I'm presuming an audience. Just imagine how much more incoherent I am without the presumption of an audience!
@@ -1124,7 +1152,7 @@ Why do I have to do the work for this? All this going around in emotional circul
 
 :: February 22
 <header>
-[[Home ->Start]] | [[Snoop by topic]] | [[Previous entry->February 21]] | [[Next entry->February 23]]
+[[Home]] | [[Snoop by topic]] | [[Previous entry->February 21]] | [[Next entry->February 23]]
 ###Saturday, February 22
 
 I slept in a shirt with a striped texture and now my boobs have striations I can run my nails across. It's like a teeny flesh washboard.
@@ -1132,6 +1160,55 @@ I slept in a shirt with a striped texture and now my boobs have striations I can
 Went hiking at Pedernales State Park, skipped rocks across the water. Jumped across slippery rocks. I'd never learned how to really skip rocks. 
 
 
+:: February 23
+<header>
+[[Home]] | [[Snoop by topic]] | [[Previous entry->February 22]] | [[Next entry->February 24]]
+###Sunday, February 23
 
+I like to ask get-to-know-you questions. Some of them can be very personal.
+
+"Do you have enough independence?"
+"What's the prevailing theme of your life?"
+"What feels vitally important right now"
+"If you could punch anyone in the face without repercussions, who would it be?"
+
+Today I asked Sean what activity would be emblematic of him "living his best life," he said doing something mundane with me, like cooking together.
+
+"What are 3 words you would use to describe me?"
+Cute, smart, and silly.
+
+
+:: February 24
+<header>
+[[Home]] | [[Snoop by topic]] | [[Previous entry->February 23]] | [[Next entry->February 25]]
+###Monday, February 24
+
+"The liar fears the void."
+
+I talk for my dogs. We have conversations. It's mostly for entertainment purposes--to be silly around Sean. But it is a little bit for company. 
+
+To Fisk, as he sprawls on the couch:
+"You giant lump dog. You could tear me limb from limb, but instead you're super cute and a lump."
+"You almost sound disappointed."
+"I dunno, you know? That's quite a way to go."
+"I will have no part in this."
+"Fine. I'll find another big-headed dog who can destroy me." I go upstairs. "Sean, your dog refuses to murder me."
+"I can murder you."
+"Cool. Thanks!" I skip off to bed.
+
+:: February 25
+<header>
+[[Home]] | [[Snoop by topic]] | [[Previous entry->February 24]] | [[Next entry->February 27]]
+###Tuesday, February 25
+
+I woke up full of energy, poked my partner and gushed about how we had sex last night. 
+
+I made myself a full breakfast and got ready to work without worrying about upcoming deadlines. I didn't wish for my partner to stay home.
+
+I parceled out my time during the day responsibly. I didn't begin to feel like I had too much to do. It was extremely relaxing and meaningful. 
+
+I didn't take breaks to check the group chat--that'd be irresponsible. My friends don't make me laugh, anyway.
+
+I pplayed an A major scale on my violin that was perfectly in tune. 
 
 
