@@ -54,7 +54,6 @@ I figure I could try having my diary be interactive, so I can store the informat
 =><=
 [[Home]] | [[Snoop chronologically]] | (link-goto: "Snoop a random passage", (either: "Sacrifice", "January 20", "January 22", "January 23", "January 25", "January 28", "January 30", "February 2", "February 3", "February 4", "February 6", "February 7", "February 10", "February 11", "February 14", "February 18", "February 19", "February 20", "February 21", "February 22", "February 23", "February 24", "February 25", "Dream January 23", "Dream January 24", "Dream January 25", "Dream January 28", "Dream January 29", "Dream January 30", "Dream February 5"))
 
-(link-goto: "Enter the cellar", "Cellar")
 
 ::List of Passages
 This is for my own benefit
@@ -103,7 +102,7 @@ This is for my own benefit
 [[Snoop by topic]]
 [[Dreams]]
 [[Stray Thoughts]]
-(link-goto: "Snoop a random passage", (either: "Sacrifice", "January 20", "January 22", "January 23", "January 25", "January 28", "January 30", "February 2", "February 3", "February 4", "February 6", "February 7", "February 10", "February 11", "February 14", "February 18", "February 19", "February 20", "February 21", "February 22", "February 23", "February 24", "February 25", "Dream January 23", "Dream January 24", "Dream January 25", "Dream January 28", "Dream January 29", "Dream January 30", "Dream February 5", "Dream February 6", "Dream February 8", "Dream February 9", "Dream February 14", "Stray Jan 20", "Stray Jan 23", "Stray Jan 25", "Stray Jan 28 1", "Stray Jan 28 2", "Stray Jan 28 3", "Stray Jan 28 4", "Stray Jan 28 5", "Stray Jan 28 6", "Stray Jan 28 7", "Stray Jan 30 1", "Stray Jan 30 2", Stray Feb 4", "Stray Feb 6"))
+(link-goto: "Snoop a random passage", (random: "Sacrifice", "January 20", "January 22", "January 23", "January 25", "January 28", "January 30", "February 2", "February 3", "February 4", "February 6", "February 7", "February 10", "February 11", "February 14", "February 18", "February 19", "February 20", "February 21", "February 22", "February 23", "February 24", "February 25", "Dream January 23", "Dream January 24", "Dream January 25", "Dream January 28", "Dream January 29", "Dream January 30", "Dream February 5", "Dream February 6", "Dream February 8", "Dream February 9", "Dream February 14", "Stray Jan 20", "Stray Jan 23", "Stray Jan 25", "Stray Jan 28 1", "Stray Jan 28 2", "Stray Jan 28 3", "Stray Jan 28 4", "Stray Jan 28 5", "Stray Jan 28 6", "Stray Jan 28 7", "Stray Jan 30 1", "Stray Jan 30 2", Stray Feb 4", "Stray Feb 6"))
 
 [[Guide to this diary->Guide]]
 [[About Me]]
